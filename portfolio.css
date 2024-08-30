@@ -1,0 +1,66 @@
+*{
+    background-color: #222;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.name{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    filter: drop-shadow(2px 2px 2px yellow);
+    color: yellow;
+}
+.banner
+{
+    background-image: url("https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXsQBkrCfwEomiuVvM7_AhvssD-PUBTkbIaiNvmI8YpE7RJ7vYE3phxyrrrWXba_ZmKkz7mpEqirIDYRE7935vA04HfQ41bFZCa_.jpg?r=1f1&quot");
+background-size: cover;
+background-position: center center;
+max-width: 100%;
+background-repeat: no-repeat;
+height: 700px;
+}
+.posters{
+    display: flex;
+    overflow-y:hidden;
+    overflow-x: scroll;
+    margin: 1% 0.5%;
+}
+.posters::-webkit-scrollbar
+{
+    display: none;
+
+}
+.poster
+{
+    margin:0% 0.5% ;
+    border-radius: 0.4%;
+
+}
+h1
+{
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1% 0% 0% 1%;
+
+
+}
+h3
+{
+    text-align: center;
+    font-weight: 400;
+    font-size: 0.8rem;
+    padding: 2% 0%;
+
+}
+
+
+
+
+
+    
+
+
