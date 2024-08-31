@@ -1,0 +1,21 @@
+.first{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    max-width: 500px;
+    height: 100px;
+    margin: 50px 100px;
+    border-radius: 100%;
+
+
+}
+.second{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    max-width: 100px;
+    height: 100px;
+    margin: 100px;
+    border-radius: 100%;
+
+}
